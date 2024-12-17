@@ -6,7 +6,7 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devika-sasikumar-2b5a57235/)](https://www.linkedin.com/in/devika-sasikumar-2b5a57235/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-DEVIKA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devika-sasikumar-2b5a57235/)](https://www.linkedin.com/in/devika-sasikumar-2b5a57235/)
 ![GitHub followers](https://img.shields.io/github/followers/D3VIKA-SASIKUMAR?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=D3VIKA-SASIKUMAR.D3VIKA-SASIKUMAR)
 [![Instagram: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/cyb3rtron/)
