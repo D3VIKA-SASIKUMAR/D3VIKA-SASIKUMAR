@@ -1,6 +1,6 @@
 
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Devika Sasikumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hey!, I'm Devika Sasikumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Flutter FullStack Developer Intern at <a href="https://softroniics.com/">Softroniics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -9,8 +9,8 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-DEVIKA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devika-sasikumar-2b5a57235/)](https://www.linkedin.com/in/devika-sasikumar-2b5a57235/)
 ![GitHub followers](https://img.shields.io/github/followers/D3VIKA-SASIKUMAR?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=D3VIKA-SASIKUMAR.D3VIKA-SASIKUMAR)
-[![Instagram: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/cyb3rtron/)
-](https://www.instagram.com/cyb3rtron/)
+[![Instagram:cyb3rtron](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cyb3rtron/)](https://www.instagram.com/cyb3rtron/)
+
 
 
 
