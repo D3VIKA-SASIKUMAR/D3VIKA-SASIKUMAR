@@ -2,7 +2,7 @@
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Devika Sasikumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Flutter FullStack Developer Intern at <a href="https://softroniics.com/">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Flutter FullStack Developer Intern at <a href="https://softroniics.com/">Softroniics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
