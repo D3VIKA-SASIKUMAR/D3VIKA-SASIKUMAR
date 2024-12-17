@@ -23,9 +23,7 @@ const devika sasikumar = {
     askMeAbout: ["app development", "tech", "designing", "cybersecurity"],
     technologies: {
         mobileApp: ["Android App"]
-        
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["Hive", "Shared Preferences", "sqlite","Firebase"],
+         databases: ["Hive", "Shared Preferences", "sqlite","Firebase"],
        
     },
 
