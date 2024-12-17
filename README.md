@@ -22,7 +22,7 @@
 const devika sasikumar = {
     pronouns: "She" | "Her",
     code: ["C", "FLUTTER", "Python", "C++"],
-    askMeAbout: ["app development", "tech", "designing", "cybersecurity"],
+    askMeAbout: ["app development", "tech", "designing", "cybersecurity","Boxing"],
     technologies: {
         mobileApp: ["Android App"]
          databases: ["Hive", "Shared Preferences", "sqlite","Firebase"],
