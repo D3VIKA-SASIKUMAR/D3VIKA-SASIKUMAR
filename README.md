@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country or City]</h3>
+<h1 align="center">Hi 👋, I'm DEVIKA </h1>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+%E2%9D%A4+code+and+coffee.;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **[Your Project or Company]**
-- 🌱 I’m currently learning **[Tech/Framework you're learning]**
-- 👯 I’m looking to collaborate on **[Your Interests]**
-- 💬 Ask me about **[Your Skills or Topics]**
-- 📫 How to reach me: **[Your Email or Contact Link]**
-- ⚡ Fun fact: **[Random fact about you]**
+- 🔭 I’m currently working on Step Tracking App
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on App Development,Web Development,UI Designing
+- 💬 Ask me about 🥊Martial Arts and 💻Dart
+- 📫 How to reach me: 👀Look left side of th screen , there my profile 
+- ⚡ Fun fact:  I name my variables after food when I’m hungry
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <!-- Add more icons as needed -->
+
+
+ <!-- Python (already have this) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+<!-- C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+
+<!-- C++ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+<!-- Dart -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
