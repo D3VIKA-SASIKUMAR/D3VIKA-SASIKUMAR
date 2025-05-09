@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+%E2%9D%A4+code+and+coffee.;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on Step Tracking App
+- 🔭 I’m currently working on FitTrack
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on App Development,Web Development,UI Designing
 - 💬 Ask me about 🥊Martial Arts and 💻Dart
