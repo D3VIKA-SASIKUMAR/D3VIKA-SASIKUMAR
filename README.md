@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm DEVIKA </h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+%E2%9D%A4+code+and+coffee.;Always+learning+new+things!" alt="Typing SVG" />
-</p>
+
 
 - 🔭 I’m currently working on FitTrack
 - 🌱 I’m currently learning Flutter
