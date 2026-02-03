@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on App Development,Web Development,UI Designing
+- 🔭 I’m currently working Web Development,UI Designing
 - 💬 Ask me about 🥊Martial Arts and 💻Dart
 - 📫 How to reach me: 👀Look left side of th screen , there my profile 
 - ⚡ Fun fact:  I name my variables after food when I’m hungry
