@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working Web Development,UI Designing
+- 🔭 I’m currently working App Development,UI Designing
 - 💬 Ask me about 🥊Martial Arts and 💻Dart
 - 📫 How to reach me: 👀Look left side of th screen , there my profile 
 - ⚡ Fun fact:  I name my variables after food when I’m hungry
