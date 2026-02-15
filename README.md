@@ -9,9 +9,7 @@
   <i>Booting futuristic mobile experiences...</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=header"/>
-</p>
+
 
 ---
 
