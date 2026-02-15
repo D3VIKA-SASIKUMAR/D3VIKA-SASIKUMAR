@@ -74,5 +74,5 @@
 </p>
 
 <p align="center">
-  <i>Running on caffeine, discipline & late-night commits 🌙</i>
+  <i>Running on sugardiet, discipline & early-night commits 🌙</i>
 </p>
