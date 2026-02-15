@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | UI Architect | Code Alchemist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;UI+Architect;Figma+to+Flutter+Specialist;Cyberpunk+Code+Alchemist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;UI+Architect;Figma+to+Flutter+Specialist;Code+Alchemist" />
 </p>
 
 <p align="center">
