@@ -1,23 +1,24 @@
-<h1 align="center">⚡ DEVIKA ⚡</h1>
-<h3 align="center">Flutter Developer | UI Designer | Cyberpunk Builder</h3>
+<h1 align="center">⚡ DEVIKA.exe ⚡</h1>
+<h3 align="center">Flutter Developer | UI Architect | Code Alchemist</h3>
 
 <p align="center">
-  Building futuristic mobile apps with clean UI & powerful logic 🖤
+  <i>Booting futuristic mobile experiences...</i>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 SYSTEM STATUS
 
-- 🔭 Currently building scalable Flutter applications  
-- 🎨 Designing pixel-perfect UI with Figma  
-- 🥋 Martial arts mindset — discipline in life, precision in code  
-- 💬 Ask me about Dart, Flutter & UI Architecture  
-- ⚡ Fun fact: I name my variables after food when I'm hungry 🍕
+```bash
+> Role: Flutter Developer
+> Location: India
+> Mode: Building. Learning. Evolving.
+> Mindset: Martial discipline × Creative chaos
+```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ TECH ARSENAL
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
@@ -32,17 +33,25 @@
 
 ---
 
-## 🧩 What I Focus On
+## 🧩 CORE PROTOCOLS
 
-✔️ Clean & scalable Flutter architecture  
-✔️ State management (Provider / Riverpod)  
-✔️ API integration  
-✔️ Performance optimization  
-✔️ Dark mode friendly UI  
+- 🟣 Pixel-perfect UI from Figma to Flutter  
+- 🟣 Clean architecture & structured state management  
+- 🟣 API integration & performance tuning  
+- 🟣 Reusable, scalable components  
+- 🟣 Writing code that looks good in dark mode  
 
 ---
 
-## 🌐 Connect With Me
+## 🥋 DEV PHILOSOPHY
+
+> Code like a warrior.  
+> Design like an artist.  
+> Ship like a machine.
+
+---
+
+## 🌐 NETWORK LINKS
 
 <p align="left">
   <a href="https://instagram.com/cyb3rtron" target="blank">
@@ -61,5 +70,9 @@
 ---
 
 <p align="center">
-  <i>Code like a warrior. Design like an artist. Ship like a machine.</i>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=SYSTEM%20VISITS&color=ff00ff&style=flat"/>
+</p>
+
+<p align="center">
+  <i>Running on caffeine, discipline & late-night commits 🌙</i>
 </p>
