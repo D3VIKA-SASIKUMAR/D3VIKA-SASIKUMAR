@@ -2,7 +2,15 @@
 <h3 align="center">Flutter Developer | UI Architect | Code Alchemist</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;UI+Architect;Figma+to+Flutter+Specialist;Cyberpunk+Code+Alchemist" />
+</p>
+
+<p align="center">
   <i>Booting futuristic mobile experiences...</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=header"/>
 </p>
 
 ---
@@ -43,6 +51,18 @@
 
 ---
 
+## ⚡ SYSTEM ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D3VIKA-SASIKUMAR&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3VIKA-SASIKUMAR&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 ## 🥋 DEV PHILOSOPHY
 
 > Code like a warrior.  
@@ -69,10 +89,22 @@
 
 ---
 
+## 🐍 CONTRIBUTION GRID
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=SYSTEM%20VISITS&color=ff00ff&style=flat"/>
+  <img src="https://github.com/D3VIKA-SASIKUMAR/D3VIKA-SASIKUMAR/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=D3VIKA-SASIKUMAR&label=SYSTEM%20VISITS&color=ff00ff&style=flat"/>
 </p>
 
 <p align="center">
-  <i>Running on sugardiet, discipline & early-night commits 🌙</i>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <i>Running on caffeine, discipline & late-night commits 🌙</i>
 </p>
